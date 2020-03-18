@@ -17,9 +17,6 @@
 
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
-You can perform all CRUD operations by using postman
-
-
 ### To check all the CRUD opertaions:
 
 #### You can perform all the CRUD operations on postman by using follwing URL:
