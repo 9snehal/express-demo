@@ -2,30 +2,38 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+## How to start
 
-### `yarn start`
+* Clone the project by using https://github.com/9snehal/express-demo 
 
-Runs the app in the development mode.<br />
+* Go to the project directory by using
+`cd express-demo`
+
+* Install dependency Required for the project by using following Command:
+`yarn install`
+
+* Run the project:
+`yarn start`
+
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You can perform all CRUD operations by using postman
+
 
 ### To check all the CRUD opertaions:
 
 #### You can perform all the CRUD operations on postman by using follwing URL:
 
-1.Retrieve All Note:
-http://localhost:4000/todos
+1.Retrieve All Notes:
+http://localhost:4000/notes
 
 2.To create Note:
-http://localhost:4000/todos
+http://localhost:4000/notes
 
-3. Retrieve a single Note with noteId:
+3.Retrieve a single Note with noteId:
 http://localhost:4000/notes/:noteId
 
-4. Update a Note with noteId:
+4.Update a Note with noteId:
 http://localhost:4000/notes/:noteId'
 
 5.Delete a Note with noteId:
